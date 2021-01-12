@@ -7,7 +7,7 @@ package javariance.bookshop;
 
 /**
  *
- * @author Tharindu
+ * @author Tharindu and others
  */
 public class LOGIN extends javax.swing.JFrame {
 
